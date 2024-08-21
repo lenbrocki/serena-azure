@@ -10,4 +10,4 @@ docker run --runtime nvidia --gpus all \
     --quantization awq \
     --disable-log-requests \
     --gpu-memory-utilization 0.85 \
-    --api-key 082eb330-ab42-4118-bd30-4732c2acf887
+    --api-key 082eb330-ab42-4118-bd30-4732c2acf887 &
